@@ -1,0 +1,59 @@
+{
+	"details":{
+		"image":"imge1.png",
+		"name":"Ruksana",
+		"phno":"+91-9876543210",
+		"email":"shaikruksana2000@gmail.com",
+		"address":"Vignan's nirula college,guntur."
+	},
+	"career":{
+		"info":"To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills."
+	},
+	"education":[
+		{
+			"qualification":"B.Tech",
+			"institute":"Vignan's nirula college",
+			"year":"2016-2020",
+			"perc":"83%"
+		},
+		{
+			"qualification":"Intermediate",
+			"institute":"Sri chaitanya",
+			"year":"2014-2016",
+			"perc":"94%"
+		},
+		{
+			"qualification":"10",
+			"institute":"sujatha",
+			"year":"2006-2014",
+			"perc":"95%"
+		}
+	],
+	"skills":[
+		{
+			"title":"Programming languages",
+			"info":["c","c++","java","python","r"]
+		},
+		{
+			"title":"Database",
+			"info":["sql","my sql","oracle"]
+		},
+		{
+			"title":"Operating System",
+			"info":["windows","linux","mac","ubuntu"]
+		}
+	],
+	"achieve":[
+		{
+
+			"title":"Achieved",
+			"info":["got first in PPT"]
+		},
+		{
+			"info":["group discussion"]
+		},
+		{
+			"info":["got certified in PWA"]
+		}
+	]
+}
